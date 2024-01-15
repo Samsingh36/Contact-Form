@@ -2,7 +2,7 @@ Overview
 
 This project is a simple and accessible "Contact Us" form built using HTML. The goal is to create a user-friendly form for visitors to ask questions or provide feedback on a website. The form has been developed without using JavaScript, demonstrating a reliance on the web platform's inherent capabilities.
 
-Features:
+a. Features:
 
  Form Fields:
   
@@ -26,15 +26,15 @@ Fields are linked to <label> elements for improved accessibility.
   
  The "Send" button has a grey background color for a modern and sleek appearance.
   
-How to Use:
+b. How to Use:
   Fill in the required information in the respective fields.
   Click on the "Send" button to submit the form.
 
-Testing:
+c.  Testing:
   Fields can be updated individually.
   Form submission can be triggered by clicking the "Send" button or hitting enter on the fields.
   Success alert is displayed if all fields are filled during submission.
 
-Technologies Used:
+d. Technologies Used:
 HTML
 CSS
