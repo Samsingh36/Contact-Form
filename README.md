@@ -4,15 +4,14 @@ This project is a simple and accessible "Contact Us" form built using HTML. The 
 
 Features
 
-  .Form Fields:
+  . Form Fields:
   
   1. Name field.
   2. Email field.
-. Email field.
-. Message field (implemented as a <textarea> for longer messages).
-. Submit button.
+  3. Message field (implemented as a <textarea> for longer messages).
+  4. Submit button.
 
-Submission:
+  . Submission:
 
 The form is set to submit data to the specified API URL (https://www.greatfrontend.com/api/questions/contact-form) using the HTTP POST method.
 
