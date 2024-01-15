@@ -1,13 +1,19 @@
 Overview
+
 This project is a simple and accessible "Contact Us" form built using HTML. The goal is to create a user-friendly form for visitors to ask questions or provide feedback on a website. The form has been developed without using JavaScript, demonstrating a reliance on the web platform's inherent capabilities.
 
 Features
+
 Form Fields:
 
 Name field.
+
 Email field.
+
 Message field (implemented as a <textarea> for longer messages).
+
 Submit button.
+
 Submission:
 
 The form is set to submit data to the specified API URL (https://www.greatfrontend.com/api/questions/contact-form) using the HTTP POST method.
