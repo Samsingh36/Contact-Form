@@ -6,7 +6,7 @@ Features
 
 . Form Fields:
 
-   . Name field.
+     . Name field.
 
    . Email field.
 
