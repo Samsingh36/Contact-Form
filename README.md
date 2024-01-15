@@ -21,7 +21,7 @@ Fields are linked to labels for improved accessibility.
 
 Use descriptive labels like "Name," "Email," and "Message" for corresponding input fields.
 
-The relationship between labels and inputs is established using the `for` attribute and `id`.
+The relationship between labels and inputs is established using the for attribute and id.
 
    Styling:
 
