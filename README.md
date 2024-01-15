@@ -27,14 +27,17 @@ Fields are linked to <label> elements for improved accessibility.
  The "Send" button has a grey background color for a modern and sleek appearance.
   
 b. How to Use:
+
   Fill in the required information in the respective fields.
   Click on the "Send" button to submit the form.
 
 c.  Testing:
+
   Fields can be updated individually.
   Form submission can be triggered by clicking the "Send" button or hitting enter on the fields.
   Success alert is displayed if all fields are filled during submission.
 
 d. Technologies Used:
+
 HTML
 CSS
