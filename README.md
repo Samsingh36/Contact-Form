@@ -18,6 +18,7 @@ The form is set to submit data to the specified API URL (https://www.greatfronte
    Accessibility:
 
 Fields are linked to <label> elements for improved accessibility.
+
 <label for="some-id"> and <input id="some-id"> are used to define the relationship between labels and inputs.
 
    Styling:
@@ -29,12 +30,15 @@ Fields are linked to <label> elements for improved accessibility.
 b. How to Use:
 
   Fill in the required information in the respective fields.
+  
   Click on the "Send" button to submit the form.
 
 c.  Testing:
 
   Fields can be updated individually.
+  
   Form submission can be triggered by clicking the "Send" button or hitting enter on the fields.
+  
   Success alert is displayed if all fields are filled during submission.
 
 d. Technologies Used:
