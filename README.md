@@ -4,10 +4,10 @@ This project is a simple and accessible "Contact Us" form built using HTML. The 
 
 Features
 
-Form Fields:
-
-
-. Name field.
+  .Form Fields:
+  
+  1. Name field.
+  2. Email field.
 . Email field.
 . Message field (implemented as a <textarea> for longer messages).
 . Submit button.
