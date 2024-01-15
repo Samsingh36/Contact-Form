@@ -23,8 +23,10 @@ Fields are linked to <label> elements for improved accessibility.
 
 Styling:
 
-The form is styled for better presentation, with a clean and responsive design.
-The "Send" button has a grey background color for a modern and sleek appearance.
+  . The form is styled for better presentation, with a clean and responsive design.
+  
+  . The "Send" button has a grey background color for a modern and sleek appearance.
+  
 How to Use
 Fill in the required information in the respective fields.
 Click on the "Send" button to submit the form.
